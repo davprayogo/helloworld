@@ -1,0 +1,1 @@
+print('Haii Perkenalakan saya Mahasiswa POLIBATAM dengan jurusan Informatika dan prodi Rekayasa Keamanan Siber')
