@@ -1,0 +1,1 @@
+print('sekian dan terima kasih')
